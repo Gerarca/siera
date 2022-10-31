@@ -5,7 +5,7 @@ namespace confsiera1
 {
     public partial class Form1 : Form
     {
-        string url = "http://200.40.49.38:80/login?admin=admin&password=siera";
+        string url = "http://200.40.49.38:80/login?user=admin&password=siera";
         public Form1()
         {
             InitializeComponent();

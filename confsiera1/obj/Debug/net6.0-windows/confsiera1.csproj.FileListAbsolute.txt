@@ -1,0 +1,17 @@
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.csproj.AssemblyReference.cache
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.Form1.resources
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.csproj.GenerateResource.cache
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.AssemblyInfoInputs.cache
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.AssemblyInfo.cs
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.csproj.CoreCompileInputs.cache
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\bin\Debug\net6.0-windows\confsiera1.exe
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\bin\Debug\net6.0-windows\confsiera1.deps.json
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\bin\Debug\net6.0-windows\confsiera1.runtimeconfig.json
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\bin\Debug\net6.0-windows\confsiera1.dll
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\bin\Debug\net6.0-windows\confsiera1.pdb
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.dll
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\refint\confsiera1.dll
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.pdb
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\confsiera1.genruntimeconfig.cache
+C:\Users\Gerso\source\repos\confsiera1\confsiera1\obj\Debug\net6.0-windows\ref\confsiera1.dll
